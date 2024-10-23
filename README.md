@@ -27,4 +27,15 @@ This project, part of the **ENCS3310 - Advanced Digital Design** course, involve
 - **System Complexity**: Despite the intricate tasks involved, the system's modular design simplifies testing, understanding, and assembling the components. 🧩
 - **Scalability and Flexibility**: Designed to be flexible and scalable, allowing for easy modifications like expanding to 64-bit instructions or adjusting opcodes. 🔧
 
+## Reporting 
 
+If you would like to see more, feel free to check the [Project Report](https://github.com/SarahYousefH/Simple-Microprocessor-Design/blob/9703aea071470d9af513bafc1158c3a73bca94b8/ProjectReport1210068final.pdf).
+
+## Installation and Setup 📦
+
+### Prerequisites
+
+Before you begin, ensure you have the Active-HDL Student Edition installed for Verilog simulation. This software is crucial for simulating and testing the processor design you will be working with.
+
+- You can download the Active-HDL Student Edition from [Aldec's official website](https://www.aldec.com/en/products/fpga_simulation/active_hdl_student).
+- Follow the installation guide on the website to set up Active-HDL on your system.
